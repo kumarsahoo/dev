@@ -7,6 +7,6 @@ public class Bank {
 		getAccount();
 	}
 public static void getAccount(){
-	System.out.println("1000");
+	System.out.println("10");
 }
 }
